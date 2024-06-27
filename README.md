@@ -6,7 +6,7 @@ My STamp
 - 習い事の管理アプリサービス
 
 ## ③DEMO
-- 
+https://mochizukihideto.sakura.ne.jp/lesson-management-system/registration/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
